@@ -20,9 +20,3 @@ class ValueFunction(nn.Module):
         return x
     
     
-    
-def value_target(reward_vector):
-    gamma_discount = 0.99
-    gamma_discount * reward_vector
-    
-    
