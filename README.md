@@ -9,4 +9,4 @@ Proximal Policy Optimization paper:
 https://arxiv.org/abs/1707.06347
 
 
-![til](https://raw.githubusercontent.com/44David/cartpole-ppo/master/assets/cartpole-inference.gif)
+![demo](assets/cartpole-inference.gif)
